@@ -1,9 +1,2 @@
 # Squid Game
-## Red Light Green Light
-
-Simple game based of on a popular Netfilx seires called "Squid Game".
-
-## [Play Game Here](https://0shuvo0.github.io/squidgame/)
-
-[Check Tutorial on Youtube:]((https://youtu.be/7bTuSZ94F6A))
-[![Youtube Tutorial](img/preview.png)](https://youtu.be/7bTuSZ94F6A)
+This is my version of squid game where there are models, sound, time, and event listeners. All functionalities for a little version Red Light and Green Light not forgetting the doll!!
